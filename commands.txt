@@ -1,0 +1,8 @@
+git status
+
+git add file
+
+git diff file
+git add -p file => select each patch (y/n)
+
+git commit => editor
