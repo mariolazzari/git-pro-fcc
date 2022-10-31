@@ -1,0 +1,8 @@
+git merge dev
+
+git merge --abort
+git rebase --abort
+
+>>>>>
+=====
+clean lines
