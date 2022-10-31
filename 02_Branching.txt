@@ -1,0 +1,9 @@
+- Long run branch: main / master (prod / staging)
+- Mirror stages in dev cycle
+- No direct commits
+
+- Short live branches: new fature, bug fixes
+- Deleted after integration
+
+- Github Flow: main + feature (simple)
+- Git Flow: main / develop => fetures => merge develop in main (add tag)
