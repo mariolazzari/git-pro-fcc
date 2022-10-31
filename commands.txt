@@ -6,3 +6,8 @@ git diff file
 git add -p file => select each patch (y/n)
 
 git commit => editor
+1st line: subject (concise)
+2nd line: empty in order to let git understand body start
+3rd line: body (detailed explanation of changes)
+
+git log
